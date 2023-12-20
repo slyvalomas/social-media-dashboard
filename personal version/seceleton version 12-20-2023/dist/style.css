@@ -1,0 +1,144 @@
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+    border: 1px solid black;
+}
+.logo{
+    font-size: 1.5rem;
+    border: 1px solid black;
+}
+.totalFollowers{
+    font-size: 1rem;
+    border: 1px solid black;
+}
+.DarkToLight{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.ThemeChanger{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    height: 10px;
+    width: 50px;
+    padding: 1rem;
+    background-color: rgba(0, 128, 128, 0.473);
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.changerButton{
+    padding: 0.75rem;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background: black;
+    border: 1px solid black;
+}
+.main{
+    border: 1px solid black;
+}
+.firstDashBoard{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 0.5rem;
+    border: 1px solid black;
+}
+.SocialMedia{
+    padding: 5rem 1.5rem;
+    border: 1px solid black;
+}
+.facebook{
+    border: 1px solid black;
+}
+.twitter{
+    border: 1px solid black;
+}
+.instagram{
+    border: 1px solid black;
+}
+.youtube{
+    border: 1px solid black;
+}
+.SocialMediaLogo{
+    display: flex;
+    gap: 0.5rem;
+    border: 1px solid black;
+}
+.SocialMediaIcon{
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.214);
+    border: 1px solid black;
+}
+.SocialMediaText{
+    padding: 0.25rem 2rem;
+    border: 1px solid black;
+}
+.followersCounter{
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+    border: 1px solid black;
+}
+.followersORsubs{
+    margin-top: 0.5rem;
+    border: 1px solid black;
+    padding: 0.5rem 3rem;
+}
+.CountFirstPerCent{
+    padding: 0.5rem ;
+    margin-top: 0.5rem;
+    border: 1px solid black;
+}
+.textBetween{
+    padding: 1rem;
+    margin: 2rem 0;
+    border: 1px solid black;
+}
+.secondDashBoard{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 0.5rem;
+    border: 1px solid black;
+}
+.overviewSocialMedia{
+    padding: 3rem 1rem;
+    border: 1px solid black;
+}
+.overviewBlockFirstPart{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem ;
+    margin-top: 0.5rem;
+    border: 1px solid black;
+}
+.logosAndText{
+    padding: 0.5rem ;
+    margin-top: 0.5rem;
+    border: 1px solid black;
+}
+.TextAndlogos{
+    padding: 0.5rem ;
+    margin-top: 0.5rem;
+    border: 1px solid black;
+}
+.overviewBlockCount{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem ;
+    margin-top: 0.5rem;
+    border: 1px solid black;
+}
+.countByNUM{
+    padding: 0.5rem ;
+    margin-top: 0.5rem;
+    border: 1px solid black;
+}
+.countBypercent{
+    padding: 0.5rem ;
+    margin-top: 0.5rem;
+    border: 1px solid black;
+}
