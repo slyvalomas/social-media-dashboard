@@ -440,14 +440,14 @@ document.addEventListener("DOMContentLoaded", function() {
         follow6.classList.remove("cool")
         follow7.classList.remove("cool")
         follow8.classList.remove("cool")
-        secPercent1.classList.add("cool")
-        secPercent2.classList.add("cool")
-        secPercent3.classList.add("cool")
-        secPercent4.classList.add("cool")
-        secPercent5.classList.add("cool")
-        secPercent6.classList.add("cool")
-        secPercent7.classList.add("cool")
-        secPercent8.classList.add("cool")
+        secPercent1.classList.remove("cool")
+        secPercent2.classList.remove("cool")
+        secPercent3.classList.remove("cool")
+        secPercent4.classList.remove("cool")
+        secPercent5.classList.remove("cool")
+        secPercent6.classList.remove("cool")
+        secPercent7.classList.remove("cool")
+        secPercent8.classList.remove("cool")
     },1000)}
     changeText();
     setInterval(changeText, 5000);
